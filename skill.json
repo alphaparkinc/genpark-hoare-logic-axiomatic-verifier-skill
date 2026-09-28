@@ -1,0 +1,20 @@
+{
+  "name": "genpark-hoare-logic-axiomatic-verifier-skill",
+  "version": "1.0.0",
+  "description": "Axiomatic Hoare logic verification condition generator (VCG) for imperative programs with loop invariants",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "hoare-logic",
+    "axiomatic-semantics",
+    "weakest-precondition",
+    "formal-verification",
+    "loop-invariants",
+    "python-standard-library",
+    "agent-skills",
+    "program-correctness",
+    "vcg",
+    "proof-assistant"
+  ]
+}
