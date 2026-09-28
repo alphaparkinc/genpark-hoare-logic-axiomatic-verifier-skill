@@ -1,0 +1,6 @@
+name: genpark-hoare-logic-axiomatic-verifier-skill
+version: 1.0.0
+description: Axiomatic Hoare logic verification condition generator (VCG) for imperative programs with loop invariants
+command: python
+args:
+  - mcp_server.py
